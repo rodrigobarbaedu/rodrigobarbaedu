@@ -1,4 +1,4 @@
-#Welcome to my profile!
+# Welcome to my profile!
 - 👋 Hi, I’m @LuisRodrigoBarbaNavarro
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Flask
