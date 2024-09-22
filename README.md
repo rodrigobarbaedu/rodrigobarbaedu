@@ -14,6 +14,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rodrigobarbaedu/rodrigobarbaedu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rodrigobarbaedu/rodrigobarbaedu/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
