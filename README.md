@@ -2,6 +2,12 @@
 
 ###
 
+<img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="https://raw.githubusercontent.com/rodrigobarbaedu/rodrigobarbaedu/refs/heads/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigobarbaedu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rodrigobarbaedu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -10,10 +16,8 @@
 
 ###
 
-<img align="right" height="205" src="https://i.imgur.com/b39oSa7.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/rodrigobarbaedu/rodrigobarbaedu/refs/heads/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://i.imgur.com/b39oSa7.jpg" height="205" style="border-radius: 50%; border: 3px solid gold;">
+</p>
 
 ###
