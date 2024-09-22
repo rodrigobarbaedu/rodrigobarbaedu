@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Rodrigo and I'm a Computer Systems Engineer</h2>
-
 ###
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 100%;" src="https://raw.githubusercontent.com/rodrigobarbaedu/rodrigobarbaedu/refs/heads/output/snake.svg" alt="Snake animation" />
